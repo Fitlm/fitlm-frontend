@@ -1,0 +1,12 @@
+.react-resizable-handle-s {
+  bottom: -8px;
+}
+
+.react-resizable-handle-e {
+  right: -8px;
+}
+
+.react-resizable-handle-se {
+  bottom: -8px;
+  right: -10px;
+}
