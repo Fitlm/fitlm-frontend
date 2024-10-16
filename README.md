@@ -1,6 +1,3 @@
-# Creating the README.md file based on the provided content
-
-content = """
 # Fitlm 🏋️‍♂️📸  
 **나만의 운동 사진 저장소**
 
